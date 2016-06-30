@@ -1,0 +1,22 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+    color:dodgerblue
+}
+h3 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+    padding: 2.5%;
+}
+
+p img {
+    border-radius: 50%;
+    float: right;
+    margin-left: 2.5%;
+}
