@@ -4,22 +4,23 @@
 
 .header 
     h1 {
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
     color:dodgerblue;
-    }
-    h3 { 
+ }
+ 
+h2 { 
         text-align: center;
-    }
+}
 
-.notes
-    p {
+.notes p {
     text-align: justify;
     padding: 2.5%;
-    }
-    img {
+}
+
+img {
     border-radius: 50%;
     float: right;
     margin-left: 2.5%;
     margin-right: 5%;
-    }
+}
